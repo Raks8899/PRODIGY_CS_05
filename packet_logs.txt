@@ -1,0 +1,448 @@
+ Terms and Conditions:
+
+    1. This packet sniffer tool is provided for educational and informational purposes only.
+    2. You agree not to use this tool for any illegal or unethical activities.
+    3. The developers of this tool are not responsible for any misuse or damage caused by its usage.
+    4. Use of this tool may be subject to local laws and regulations. It is your responsibility to ensure compliance.
+
+    Do you accept these terms and conditions? (yes/no)
+    
+yes
+Terms accepted. Starting packet sniffing...
+Press Ctrl+C to stop.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.112 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.112 --> Destination IP: 239.255.255.250 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_44ED731B._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.112 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 18.214.174.26 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 18.214.174.26 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_44ED731B._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.25 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.21 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 140.82.113.25 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 140.82.113.21 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.21 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.21 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.21 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.21 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 140.82.113.21 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 140.82.113.21 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 140.82.113.21 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 140.82.113.21 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 140.82.113.21 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.21 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.112 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 192.168.29.1 | Protocol: 17
+UDP Payload: DNS Qry "b'mail.google.com.'" 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: DNS Ans "142.250.193.69" 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 204.79.197.203 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 23.200.79.104 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 204.79.197.203 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 204.79.197.203 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 204.79.197.203 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 23.200.79.104 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 23.200.79.104 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 23.200.79.104 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 23.200.79.104 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_44ED731B._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 140.82.113.25 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 140.82.113.25 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 140.82.113.25 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.112 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 35.190.10.96 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 35.190.10.96 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: Padding
+
+Packet logged.
+Source IP: 192.168.29.112 --> Destination IP: 239.255.255.250 | Protocol: 17
+UDP Payload: Raw
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.251 | Protocol: 17
+UDP Payload: DNS Qry "b'_44ED731B._sub._googlecast._tcp.local.'" 
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 18.214.174.26 | Protocol: 6
+TCP Payload: Raw
+
+Packet logged.
+Source IP: 18.214.174.26 --> Destination IP: 192.168.29.118 | Protocol: 6
+TCP Payload: 
+
+Packet logged.
+Source IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.118 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+Source IP: 192.168.29.47 --> Destination IP: 224.0.0.22 | Protocol: 2
+
+Packet logged.
+
+Process finished with exit code 0
